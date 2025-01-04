@@ -1,49 +1,51 @@
-## *Digital Clock*
+# Digital Clock
 
-   <img src="https://github.com/Jomon-j/Digital-Clock/blob/main/Preview.png?raw=true" alt="Project Screenshot" width="500"/>
+![Preview](https://github.com/user-attachments/assets/0d402a43-b770-4e40-9dd2-3404333450ba)
 
-### 🔗 *Demo Site*
-   - Check out the live demo of this project: [Demo Site](https://jomon-j.github.io/Digital-Clock)
-   
-###  *Key Features*
-   - Responsive Design
-   - clean UI
-   - Real-Time Updates
-   - Date and Day of the Week
+[***Live Demo***](https://Clock.jomon.dev)  
 
-###  *Technologies Used*
-   - html
-   - css
-   - JavaScript
+---
 
-##  Getting Started
+## Features  
+- Responsive Design
+- clean UI
+- Real-Time Updates
+- Date and Day of the Week
 
-To get started with this project, you have two options:
+---
 
-### 1. *Clone the Repository*
-   - Use the following link to clone the repository to your local machine:
-    
-     ```bash
-     git clone https://github.com/Jomon-J/Digital-Clock.git
+## Technologies Used  
+- **HTML**: For structure  
+- **CSS**: For styling  
+- **JavaScript**: For real-time functionality  
 
-     
-   - Once cloned, navigate to the project directory:
-     
-     ```bash
+---
+
+## Getting Started  
+
+### Clone the Repository  
+Run the following commands to clone and navigate into the project:  
+
+```bash  
+    git clone https://github.com/Jomon-J/Digital-Clock.git
+
+```
+```
      cd Digital-Clock
-     
+```
+  
 
-### 2. *Fork the Repository*
-   - If you prefer, you can directly *fork* this repository.
-   - Click the *Fork* button at the top-right of this page.
-   - After forking, clone the repository from your account:
+### Fork the Repository  
+1. Fork this repository on GitHub.  
+2. Clone your fork:  
 
-     ```bash
-     git clone https://github.com/your-username/your-forked-repository-name.git
+```bash  
+   git clone https://github.com/your-username/your-forked-repository-name.git
 
+ ```
+    cd your-forked-repository-name    
+   
+---
 
 ### 🌟 *Don’t Forget to Star!*
    - If you find this project useful, please consider giving it a star ⭐. It helps others discover it too!
-
-###  *License*
-   - This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/MIT) file for details.
