@@ -1,9 +1,9 @@
 ## *Digital Clock*
 
-   <img src="https://github.com/Jomonh/Digital-Clock/blob/main/Preview.png?raw=true" alt="Project Screenshot" width="500"/>
+   <img src="https://github.com/Jomon-j/Digital-Clock/blob/main/Preview.png?raw=true" alt="Project Screenshot" width="500"/>
 
 ### 🔗 *Demo Site*
-   - Check out the live demo of this project: [Demo Site](https://jomonh.github.io/Digital-Clock)
+   - Check out the live demo of this project: [Demo Site](https://jomon-j.github.io/Digital-Clock)
    
 ###  *Key Features*
    - Responsive Design
@@ -24,7 +24,7 @@ To get started with this project, you have two options:
    - Use the following link to clone the repository to your local machine:
     
      ```bash
-     git clone https://github.com/Jomonh/Digital-Clock.git
+     git clone https://github.com/Jomon-J/Digital-Clock.git
 
      
    - Once cloned, navigate to the project directory:
