@@ -21,7 +21,7 @@
 Run the following commands to clone and navigate into the project:
 
 ```bash  
-git clone https://github.com/jomon-j/digital-clock.git
+git clone https://github.com/iamjomon/digital-clock.git
 ```
 ```bash
 cd digital-clock
